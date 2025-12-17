@@ -25,3 +25,13 @@
     "vite": "^6.2.0"
   }
 }
+{
+  "name": "iic-app",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo 'No build step necessary' && exit 0"
+  },
+  "dependencies": {
+    "firebase": "^10.7.1"
+  }
+}
